@@ -1,0 +1,2 @@
+yfianance
+pyalgotrade
